@@ -1,0 +1,8 @@
+stm32l1xx_flash_ramfunc.c:102:12:FLASH_RUNPowerDownCmd	24	static
+stm32l1xx_flash_ramfunc.c:159:14:FLASH_EraseParallelPage	24	static
+stm32l1xx_flash_ramfunc.c:221:12:FLASH_ProgramHalfPage	24	static
+stm32l1xx_flash_ramfunc.c:293:12:FLASH_ProgramParallelHalfPage	32	static
+stm32l1xx_flash_ramfunc.c:372:12:DATA_EEPROM_EraseDoubleWord	24	static
+stm32l1xx_flash_ramfunc.c:431:12:DATA_EEPROM_ProgramDoubleWord	48	static
+stm32l1xx_flash_ramfunc.c:478:19:GetStatus	16	static
+stm32l1xx_flash_ramfunc.c:515:20:WaitForLastOperation	24	static

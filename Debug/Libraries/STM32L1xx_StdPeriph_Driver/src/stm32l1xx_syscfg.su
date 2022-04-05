@@ -1,0 +1,13 @@
+stm32l1xx_syscfg.c:114:6:SYSCFG_DeInit	8	static
+stm32l1xx_syscfg.c:125:6:SYSCFG_RIDeInit	4	static
+stm32l1xx_syscfg.c:146:6:SYSCFG_MemoryRemapConfig	16	static
+stm32l1xx_syscfg.c:163:10:SYSCFG_GetBootMode	4	static
+stm32l1xx_syscfg.c:175:6:SYSCFG_USBPuCmd	16	static
+stm32l1xx_syscfg.c:200:6:SYSCFG_EXTILineConfig	24	static
+stm32l1xx_syscfg.c:241:6:SYSCFG_RITIMSelect	24	static
+stm32l1xx_syscfg.c:286:6:SYSCFG_RITIMInputCaptureConfig	24	static
+stm32l1xx_syscfg.c:357:6:SYSCFG_RIResistorConfig	16	static
+stm32l1xx_syscfg.c:388:6:SYSCFG_RIChannelSpeedConfig	16	static
+stm32l1xx_syscfg.c:436:6:SYSCFG_RIIOSwitchConfig	24	static
+stm32l1xx_syscfg.c:491:6:SYSCFG_RISwitchControlModeCmd	16	static
+stm32l1xx_syscfg.c:531:6:SYSCFG_RIHysteresisConfig	16	static

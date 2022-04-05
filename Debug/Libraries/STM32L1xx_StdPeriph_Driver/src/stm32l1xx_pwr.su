@@ -1,0 +1,14 @@
+stm32l1xx_pwr.c:123:6:PWR_DeInit	8	static
+stm32l1xx_pwr.c:137:6:PWR_RTCAccessCmd	16	static
+stm32l1xx_pwr.c:185:6:PWR_PVDLevelConfig	24	static
+stm32l1xx_pwr.c:210:6:PWR_PVDCmd	16	static
+stm32l1xx_pwr.c:247:6:PWR_WakeUpPinCmd	24	static
+stm32l1xx_pwr.c:294:6:PWR_FastWakeUpCmd	16	static
+stm32l1xx_pwr.c:308:6:PWR_UltraLowPowerCmd	16	static
+stm32l1xx_pwr.c:405:6:PWR_VoltageScalingConfig	24	static
+stm32l1xx_pwr.c:587:6:PWR_EnterLowPowerRunMode	16	static
+stm32l1xx_pwr.c:620:6:PWR_EnterSleepMode	24	static
+stm32l1xx_pwr.c:676:6:PWR_EnterSTOPMode	24	static
+stm32l1xx_pwr.c:723:6:PWR_EnterSTANDBYMode	4	static
+stm32l1xx_pwr.c:783:12:PWR_GetFlagStatus	24	static
+stm32l1xx_pwr.c:809:6:PWR_ClearFlag	16	static
