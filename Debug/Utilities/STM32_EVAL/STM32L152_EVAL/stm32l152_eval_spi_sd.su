@@ -1,0 +1,17 @@
+stm32l152_eval_spi_sd.c:125:6:SD_DeInit	8	static
+stm32l152_eval_spi_sd.c:137:10:SD_Init	16	static
+stm32l152_eval_spi_sd.c:164:9:SD_Detect	16	static
+stm32l152_eval_spi_sd.c:184:10:SD_GetCardInfo	24	static
+stm32l152_eval_spi_sd.c:209:10:SD_ReadBlock	32	static
+stm32l152_eval_spi_sd.c:263:10:SD_ReadMultiBlocks	40	static
+stm32l152_eval_spi_sd.c:323:10:SD_WriteBlock	32	static
+stm32l152_eval_spi_sd.c:381:10:SD_WriteMultiBlocks	40	static
+stm32l152_eval_spi_sd.c:444:10:SD_GetCSDRegister	40	static
+stm32l152_eval_spi_sd.c:566:10:SD_GetCIDRegister	40	static
+stm32l152_eval_spi_sd.c:661:6:SD_SendCmd	32	static
+stm32l152_eval_spi_sd.c:694:9:SD_GetDataResponse	16	static
+stm32l152_eval_spi_sd.c:743:10:SD_GetResponse	24	static
+stm32l152_eval_spi_sd.c:769:10:SD_GetStatus	16	static
+stm32l152_eval_spi_sd.c:798:10:SD_GoIdleState	8	static
+stm32l152_eval_spi_sd.c:844:9:SD_WriteByte	16	static
+stm32l152_eval_spi_sd.c:868:9:SD_ReadByte	16	static

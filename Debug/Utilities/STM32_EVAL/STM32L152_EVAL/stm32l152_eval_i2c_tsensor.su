@@ -1,0 +1,10 @@
+stm32l152_eval_i2c_tsensor.c:130:6:LM75_DeInit	8	static
+stm32l152_eval_i2c_tsensor.c:140:6:LM75_Init	24	static
+stm32l152_eval_i2c_tsensor.c:171:13:LM75_DMA_Config	64	static
+stm32l152_eval_i2c_tsensor.c:230:13:LM75_GetStatus	16	static
+stm32l152_eval_i2c_tsensor.c:283:10:LM75_ReadReg	24	static
+stm32l152_eval_i2c_tsensor.c:393:9:LM75_WriteReg	24	static
+stm32l152_eval_i2c_tsensor.c:479:10:LM75_ReadTemp	16	static
+stm32l152_eval_i2c_tsensor.c:585:9:LM75_ReadConfReg	16	static
+stm32l152_eval_i2c_tsensor.c:687:9:LM75_WriteConfReg	24	static
+stm32l152_eval_i2c_tsensor.c:774:9:LM75_ShutDown	24	static

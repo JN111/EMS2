@@ -1,0 +1,9 @@
+stm32l152_eval_i2c_ee.c:145:6:sEE_DeInit	8	static
+stm32l152_eval_i2c_ee.c:155:6:sEE_Init	24	static
+stm32l152_eval_i2c_ee.c:226:10:sEE_ReadBuffer	24	static
+stm32l152_eval_i2c_ee.c:396:10:sEE_WritePage	24	static
+stm32l152_eval_i2c_ee.c:479:6:sEE_WriteBuffer	24	static
+stm32l152_eval_i2c_ee.c:658:10:sEE_WaitEepromStandbyState	16	static
+stm32l152_eval_i2c_ee.c:735:6:DMA1_Channel6_IRQHandler	8	static
+stm32l152_eval_i2c_ee.c:764:6:DMA1_Channel7_IRQHandler	8	static
+stm32l152_eval_i2c_ee.c:787:10:sEE_TIMEOUT_UserCallback	4	static
